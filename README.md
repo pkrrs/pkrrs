@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pkrrs or Praveen
 - 👀 I’m interested in Python development.
-- 🌱 I’m currently learning Python at Professional level.
-- 💞️ I’m looking to collaborate on Any projects that help me learn Python.
+- 🌱 I’m currently learning Python at Professional level along with Web Development.
+- 💞️ I’m looking to collaborate on Any projects that help me learn Python more extensively.
 - 📫 How to reach me Contact me on pkrrs2001@gmail.com
 
 <!---
