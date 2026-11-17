@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @pkrrs or Praveen
-- 👀 I’m interested in Python development.
-- 🌱 I’m currently learning Python at Professional level along with Web Development.
-- 💞️ I’m looking to collaborate on Any projects that help me learn Python more extensively.
-- 📫 How to reach me Contact me on pkrrs2001@gmail.com
+Data engineer building data pipelines for GenAI and RAG applications.
 
-<!---
-pkrrs/pkrrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Works with:** Python, SQL, PySpark, Databricks, Azure AI Search, LangChain, BigQuery, Neo4j
+
+**Background:** 3+ years building production data pipelines on Azure and GCP.
+Google Cloud Professional Data Engineer certified.
+
+**Currently:** working on a RAG based Pipeline for Data ingestion using local LLM model using 3B parameters.
+
+**Contact:** https://www.linkedin.com/in/pkrrs/ / pkrrs2001@gmail.com
